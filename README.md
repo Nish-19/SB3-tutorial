@@ -34,7 +34,7 @@ The function ```implement_PPO_algorithm``` implements the training and the testi
 ## Custom Feature Extractor 
 
 ```
-python custom_rec_policy.py
+python custom_feature_ppo.py
 ```
 
 ```CustomFeatureExtractor``` class implements a custom feature extraction layer containing 128 hidden units. ```RecurrentPolicy``` implements an LSTM over the features extracted from the state space using ```CustomFeatureExtractor``` class.
