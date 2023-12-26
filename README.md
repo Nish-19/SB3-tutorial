@@ -39,7 +39,7 @@ python custom_rec_policy.py
 
 ```CustomFeatureExtractor``` class implements a custom feature extraction layer containing 128 hidden units. ```RecurrentPolicy``` implements an LSTM over the features extracted from the state space using ```CustomFeatureExtractor``` class.
 
-## Custom Policy (LSTM Bilinear)
+## Custom Policy
 
 ```
 python lstm_bilinear_policy.py
