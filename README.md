@@ -1,6 +1,6 @@
 # SB3-tutorial
 
-This repository contains code for the tutorial on using Stable Baselines 3 for creating custom environments and custom policies.
+This repository contains code for the tutorial on using Stable Baselines 3 for creating custom environments and custom policies. A blog on the problem statement and the MDP formulation can be found at - https://nish-19.github.io/posts/2023/12/blog-post-6/. 
 
 ## Contents 
 
